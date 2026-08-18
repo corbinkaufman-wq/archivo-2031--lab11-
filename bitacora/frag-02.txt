@@ -1,0 +1,13 @@
+Respaldo automatico previo al incidente.
+
+Contiene el glifo del sello que la rama principal nunca recupero.
+
+======================================
+   ARCHIVO 2031 - FRAGMENTO 02/02
+======================================
+origen : respaldo previo al incidente
+palabra: MONTICULO
+codigo : be1a177c23
+--------------------------------------
+Transcribir tal cual. Se compara linea a linea.
+
